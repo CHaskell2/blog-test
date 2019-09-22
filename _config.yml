@@ -1,3 +1,4 @@
-theme: jekyll-theme-slate
 name: Hello Name
 markdown: kramdown
+
+theme: jekyll-theme-slate
